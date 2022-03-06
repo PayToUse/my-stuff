@@ -9,4 +9,4 @@ There is no release, but files will be added and can be downloadable
 
 # Contributors
 
-Only one person adds and contributes stuff to this repository, **and it's me**
+Only one person adds and contributes stuff to this repository, **and it's PayToUse (the one who added this)**
